@@ -148,7 +148,3 @@ curl -X POST http://localhost:8000/analyze \
 2. Create a feature branch: `git checkout -b feat/my-feature`
 3. Commit: `git commit -m "feat: add my feature"`
 4. Push and open a PR
-
-## 📄 License
-
-MIT
