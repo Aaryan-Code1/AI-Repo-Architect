@@ -134,7 +134,7 @@ curl -X POST http://localhost:8000/analyze \
   --no-buffer
 ```
 
-## 📈 Roadmap
+## 📈 Upcoming Features
 
 - [ ] GitHub OAuth for private repos
 - [ ] `react-force-graph` dependency graph visualization
